@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- *  
- * The script in this file prints"\"Programming is like building a multilingual puzzle"
- * and Returns(0)
+ * Main-This is the entry point  
+ * Description: The script in this file prints"\"Programming is like building a multilingual puzzle"
+ * Returns: 0
  *
  *
  */

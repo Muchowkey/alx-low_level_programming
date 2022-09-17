@@ -5,7 +5,7 @@
  * return 0
  */
 
-main(void)
+int main(void)
 {
 	puts("Programming is like a multilingual language");
 

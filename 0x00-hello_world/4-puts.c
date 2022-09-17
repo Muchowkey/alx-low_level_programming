@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
- * main-outputs a line of text
- * return 0
+ * main-Entry point
+ * Description: prints a line of text
+ * Return: 0
  */
 
 int main(void)
 {
-	puts("Programming is like a multilingual language");
+	puts("\"Programming is like a multilingual language");
 
 	return (0);
 }

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabetx10 - Entry Point
+ * print_alphabet_x10 - Entry Point
  * Description: Prints lowercase alphabets 10 times
  * Return: Always 0
  */
@@ -9,7 +9,7 @@
 void print_alphabet_x10(void)
 {
 	char b;
-	int i;
+	int i = 0;
 
 	while (i <= 9)
 	{

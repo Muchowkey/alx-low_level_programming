@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - entrypoint
+ * _islower - entrypoint
  * Description: checks if int c is lower
+ * @c: value received
  * Return: 0
  */
 
@@ -15,9 +16,8 @@ int _islower(int c)
 		if (c == i)
 		{
 			return (1);
-		}else
-		{
-			return (0);
 		}
+
+		return (0);
 	}
 }
